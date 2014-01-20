@@ -1,0 +1,15 @@
+{
+  "name": "elephas-logger",
+  "version": "0.10.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ingtk",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "log4js": "~0.6.9"
+  }
+}
